@@ -14,4 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=HUGHNew)](https://github.com/HUGHNew/github-readme-stats)
+
+## &#x1f4c8; GitHub Stats
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=HUGHNew)](https://github.com/anuraghazra/github-readme-stats)
+
+## 👨‍💻 This week, I spent my time on:
+
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HUGHNew&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e)](https://github.com/anuraghazra/github-readme-stats)
