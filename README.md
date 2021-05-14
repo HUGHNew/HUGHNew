@@ -1,4 +1,4 @@
-### Hi there 👋
+### ♻️ Going Up
 
 <!--
 **HUGHNew/HUGHNew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## &#x1f4c8; GitHub Stats
+## 📈 GitHub Stats
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=HUGHNew&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
