@@ -28,5 +28,5 @@ C++        3 mins          █████████████████�
 ```
 <!--END_SECTION:waka-->
 
-[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HUGHNew)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HUGHNew)](https://github.com/anuraghazra/github-readme-stats)-->
 
