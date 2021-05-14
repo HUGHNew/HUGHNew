@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## &#x1f4c8; GitHub Stats
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=HUGHNew&theme=oneDark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=HUGHNew&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## 👨‍💻 This week, I spent my time on:
