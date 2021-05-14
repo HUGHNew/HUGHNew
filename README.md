@@ -23,6 +23,9 @@ Here are some ideas to get you started:
 ## 👨‍💻 This week, I spent my time on:
 
 <!--START_SECTION:waka-->
+```text
+C++        3 mins          ████████████████████████▓   98.39 % 
+```
 <!--END_SECTION:waka-->
 
 [![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HUGHNew)](https://github.com/anuraghazra/github-readme-stats)
