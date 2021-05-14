@@ -22,4 +22,7 @@ Here are some ideas to get you started:
 
 ## 👨‍💻 This week, I spent my time on:
 
+<!--START_SECTION:waka-->
 [![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HUGHNew)](https://github.com/anuraghazra/github-readme-stats)
+<!--END_SECTION:waka-->
+
