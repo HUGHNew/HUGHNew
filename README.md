@@ -25,5 +25,5 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-<!--[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HUGHNew)](https://github.com/anuraghazra/github-readme-stats)-->
+[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HUGHNew&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
