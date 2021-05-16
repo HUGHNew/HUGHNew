@@ -23,6 +23,13 @@ Here are some ideas to get you started:
 ## 👨‍💻 This week, I spent my time on:
 
 <!--START_SECTION:waka-->
+```text
+HTML         3 hrs 17 mins   ████████████▒░░░░░░░░░░░░   49.59 % 
+JavaScript   1 hr 37 mins    ██████░░░░░░░░░░░░░░░░░░░   24.53 % 
+Java         1 hr 19 mins    █████░░░░░░░░░░░░░░░░░░░░   19.83 % 
+JSON         10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
+C++          9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+```
 <!--END_SECTION:waka-->
 
 [![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HUGHNew&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
