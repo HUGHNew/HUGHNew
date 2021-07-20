@@ -30,6 +30,15 @@ Here are some ideas to get you started:
   - Learn to do it from `ext2`
   - In C++
 
+### 🔭 Doing 
+
+- Reading SICP
+- Refactor Cids-Client
+
+### 🤔 Need Help
+
+some SCUer to help me with SCU-CS
+
 ### 🌱 Wants
 
 Learning `Kotlin` 
