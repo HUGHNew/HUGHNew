@@ -22,18 +22,14 @@ Here are some ideas to get you started:
 
 ## 👯 Some Ideas
 
-- [ ] Screenshot With OCR
-  - Maybe On Windows only
-  - Paddle OCR docker version or not
-  - Can apply to **Windows Toys**
-- [ ] Simple-FileSystem
-  - Learn to do it from `ext2`
-  - In C++
+- [ ]  Learn Something about Machine Learning
+- [ ]  Form a Open Source Community together
 
 ### 🔭 Doing 
 
 - Reading SICP
 - Refactor Cids-Client
+- Learning
 
 ### 🤔 Need Help
 
