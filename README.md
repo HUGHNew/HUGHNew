@@ -24,3 +24,4 @@ Here are some ideas to get you started:
 
 - [ ]  Daily paper summary and weekly video report
 - [ ]  Lain voice clone
+- [ ]  multimodal support Ollama Flutter app
