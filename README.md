@@ -22,21 +22,5 @@ Here are some ideas to get you started:
 
 ## 👯 Some Ideas
 
-- [ ]  Learn Something about Machine Learning
-- [ ]  Learn PLT starting at LISP
-
-### 🔭 Doing 
-
-- Reading SICP
-- Learning Docker and cloud computing
-- Android/Kotlin Developing
-
-### 🤔 Need Help
-
-some SCUer to help me with SCU-CS
-
-### 🌱 Wants
-
-Learning `Kotlin`  *Jetpack Compose*!
-
-Want to learn FP with `Haskell`
+- [ ]  Daily paper summary and weekly video report
+- [ ]  Lain voice clone
